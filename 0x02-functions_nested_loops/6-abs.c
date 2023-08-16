@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_abs - Check computes the absolute value of an integer.
+ * 6-abs.c - Check computes the absolute value of an integer.
  * Description: This function returns absolute value of a number
  * Return: Absolute value of number r
  */

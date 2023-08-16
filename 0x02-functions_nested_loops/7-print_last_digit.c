@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_last_digit
+ * 7-print_last_digit.c - check description
  * Description: This function prints the last digit of a number
  * Return: last digit of number r
  */
