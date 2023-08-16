@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * print alphabet 10times
+ * 2-print_alphabet_x10.c - check description
  * Description: function prints alphabet in lowercaes 10times
  * using the _putchar function
  * Return: void
