@@ -2,11 +2,13 @@
 #include <stdio.h>
 
 /**
- * 11-print_to_98.c - print_to_98
+ * print_to_98 - Check description
+ * @n: A input integer
  * Description: function that prints all natural numbers
  * from n to 98, followed by a new line.
  * Return: Nothing
  */
+
 void print_to_98(int n)
 {
 	if (n <= 98)

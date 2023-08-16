@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * 6-abs.c - Check computes the absolute value of an integer.
+ *_abs - Check description
+ * @r: An integre input
  * Description: This function returns absolute value of a number
- * Return: Absolute value of number r
+ * Return: Absolut value of number r
  */
+
 int _abs(int r)
 {
 	if (r >= 0)

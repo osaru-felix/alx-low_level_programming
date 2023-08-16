@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * 8-24_hours.c - jack_bauer
+ * jack_bauer - Check description
  * Description: function prints every minute in one day
  * Return: Nothing
  */
+
 void jack_bauer(void)
 {
 	int H, M;

@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * 5-sign.c - print the sign of a number.
- * Description: This function prints the sign of the number
+ * print_sign - Check description
+ * @n: An input number
+ * Description: Tohis function prints the sign of the number
  * Return: 1 if number is positive, o if number is 0, or
  * -1 if number is negative
  */
