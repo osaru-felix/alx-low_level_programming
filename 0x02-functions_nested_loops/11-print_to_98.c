@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_to_98
+ * 11-print_to_98.c - print_to_98
  * Description: function that prints all natural numbers
  * from n to 98, followed by a new line.
  * Return: Nothing
