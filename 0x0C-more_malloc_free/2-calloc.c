@@ -7,7 +7,7 @@
  * Return: pointer to new memory allocated
  */
 
-void *_calloc(unsigned int nmemb, unsigned int size);
+void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	char *output;
 
