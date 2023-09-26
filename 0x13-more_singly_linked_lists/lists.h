@@ -22,17 +22,17 @@ typedef struct listint_s
 } listint_t;
 
 /**
- * struct listg_s - singly linked list
- * @g: pointer of nodes
+ * struct listp_s - singly linked list
+ * @p: pointer of nodes
  * @next: pointer to next node
  *
  * Description : singly linked list of pointers
  */
-typedef struct listg_s
+typedef struct listp_s
 {
-	void *g;
-	struct listg_s *next;
-} listg_t;
+	void *p;
+	struct listp_s *next;
+} listp_t;
 
 size_t print_listint(const listint_t *h);
 size_t listint_len(const listint_t *h);
